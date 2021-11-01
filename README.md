@@ -5,5 +5,5 @@
 <div align="center">
   <a href="https://github.com/ReBastos">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rebastos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
 </div>
