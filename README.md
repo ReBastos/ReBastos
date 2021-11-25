@@ -15,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
 </div>
 
- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px"> Connect with me
+ ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px"> Connect with me
  
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rebastos/)
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:renato.bastos96@gmail.com)
