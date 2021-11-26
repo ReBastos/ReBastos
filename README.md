@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
 
-## <img alt="GIF" src="assets/Hi.gif" width="20vw" /> About me
+## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
 
 - I'm a <b>Full Stack Web</b> Developer under construction 🚧;
 - I'm currently learning <b>React</b> 👨‍💻;
