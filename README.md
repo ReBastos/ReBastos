@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.</div>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
 
 ## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
 
