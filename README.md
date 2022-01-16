@@ -1,4 +1,5 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
+# <div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.</div>
+<img src="code.gif" align="center">
 
 ## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
 
@@ -16,10 +17,10 @@
 </div>
 
  
- ### Hobbies and Interests
+ ## <div align="center">Hobbies and Interests</div>
  
  - I'm a <strike>full-time</strike> part-time gamer 🎮.
- - 
+ - Huge fan of Kingdom Hearts <img src="assets/sora.gif" height="30px">
  
  
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
