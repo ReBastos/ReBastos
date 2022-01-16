@@ -15,6 +15,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
 </div>
 
+ 
+ ### Hobbies and Interests
+ 
+ - I'm a <strike>full-time</strike> part-time gamer.
+ - 
+ 
+ 
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
  
  [<img src="assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rebastos/)
