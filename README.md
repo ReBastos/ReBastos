@@ -18,7 +18,7 @@
  
  ### Hobbies and Interests
  
- - I'm a <strike>full-time</strike> part-time gamer.
+ - I'm a <strike>full-time</strike> part-time gamer 🎮.
  - 
  
  
