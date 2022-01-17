@@ -17,6 +17,20 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
  </a>
 </div>
+
+<table>
+ <tr>
+  <td>
+   Teste
+  </td>
+  <td>
+   Teste
+  </td>
+  <td>
+   Teste
+  </td>
+ </tr>
+ </table>
  
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
  
