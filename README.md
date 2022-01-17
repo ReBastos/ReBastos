@@ -4,6 +4,15 @@
 
 ## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
 
+- I'm <b>Renato</b> 🙇🏻‍♂️
+- 26yo
+- Brazilian 🇧🇷
+- From Santo Amaro/Ba 📍
+- Computer graduate ✔️
+- Web Technology lover ❤️‍🔥
+- Extremely Curious 🤔
+
+### Technologies
 - I'm a <b>Full Stack Web</b> Developer under construction 🚧;
 - I'm currently learning <b>React</b> 👨‍💻;
  - 🎮 : <img height="20em" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
