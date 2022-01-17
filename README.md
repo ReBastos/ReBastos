@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
 
