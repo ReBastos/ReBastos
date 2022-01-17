@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
 
 ## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
@@ -13,8 +15,8 @@
   <a href="https://github.com/ReBastos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebastos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
+ </a>
 </div>
- 
  
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
  
