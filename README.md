@@ -41,7 +41,7 @@
  </a>
 </div>
  
-## <img alt="GIF" src="assets/studying.png" width="30vw" /> Studying
+## <img alt="GIF" src="assets/studying.png" width="30vw" /> Learning
 
  ## <img alt="GIF" src="assets/link.png" width="30vw" /> Interests
  
