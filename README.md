@@ -11,7 +11,7 @@
 - Web Technology lover ❤️‍🔥
 - Extremely Curious 🤔
 
-### Technologies
+## <img alt="GIF" src="assets/computer.gif" width="20vw" /> Technologies
 - I'm a <b>Full Stack Web</b> Developer under construction 🚧;
 - Currently learning <b>React</b> 👨‍💻;
  - 🎮 : <img height="20em" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
@@ -24,6 +24,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebastos&layout=compact&langs_count=7&theme=ayu-mirage&include_all_commits=true&count_private=tru"/>
  </a>
 </div>
+ 
+ ## <img alt="GIF" src="assets/link.png" width="20vw" /> Interests
  
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
  
