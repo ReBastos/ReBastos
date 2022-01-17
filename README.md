@@ -25,7 +25,7 @@
  </a>
 </div>
  
- ## <img alt="GIF" src="assets/link.png" width="20vw" /> Interests
+ ## <img alt="GIF" src="assets/link.png" width="30vw" /> Interests
  
  ## <img src="assets/Handshake.gif" height="20px"> Connect with me
  
