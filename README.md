@@ -3,10 +3,8 @@
 
 ## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
 
-- I'm <b>Renato</b> 🙇🏻‍♂️
-- 26yo ⌛
-- Brazilian 🇧🇷
-- From Santo Amaro/Ba 📍
+- I'm <b>Renato</b> 🙇🏻‍♂️ • 26yo ⌛
+- Brazilian 🇧🇷 • From Santo Amaro/Ba 📍
 - Computer graduate ✔️
 - Web Technology lover ❤️‍🔥
 - Extremely Curious 🤔
@@ -41,18 +39,25 @@
 
 ## <img alt="GIF" src="assets/studying.gif" width="25vw" /> Learning
 
-- Currently learning <b>React</b> 👨‍💻;
- - ✍️ : <img height="20em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- Currently learning <b>React</b> 👨‍💻
+
+Languages/Frameworks | Content
+------------ | --------------
+<img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | Styled Components • Inputs
+
+
 
 <br>
 
  ## <img alt="GIF" src="assets/link.png" width="30vw" /> Interests
  
+ <img src="assets/gamer.gif" width="300px">
+ 
  - <strike>Full-time</strike> Part-time gamer 🎮 
  - Gaming Plataforms: <img height="20em" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
  
  
- 
+  
  
  
  ### Play With Me
