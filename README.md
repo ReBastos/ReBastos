@@ -43,7 +43,7 @@
 
 Languages/Frameworks | Content
 ------------ | --------------
-<img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | Styled Components • Inputs
+<img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | Styled Components 
 
 
 
