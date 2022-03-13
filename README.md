@@ -21,6 +21,8 @@
  </a>
 </div>
 
+<br>
+
 <details>
  <summary>See the details!</summary>
 <div align="center">
