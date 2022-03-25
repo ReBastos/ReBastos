@@ -25,7 +25,14 @@
 
 <details>
  <summary>See the details!</summary>
+ 
+
+ 
+ 
 <div align="center">
+ 
+   Front-End Technologies
+------------ 
  
  Languages/Frameworks | Habilities/Content
 ------------ | --------------
@@ -34,8 +41,15 @@
 <img height="30em" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> | Syntax • Variables • @Mixins • @Include • @Use
 <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | Functions • DOM Manipulation • Selectors • Events • JSON • LocalStorage • Class • Closure • Polymorphism • Arrow Functions • Module • Promises • Async/Await • Spread/Rest • Array Functions • API
 <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | Components • Props • PropTypes • Controlled Components • useState • useEffect • Routes • useContext • Styled Components 💅
-
+ 
+ 
  </div>
+ 
+  Back-End Technologies
+------------ 
+ Languages/Frameworks | Habilities/Content
+------------ | --------------
+<img height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Class • Objects • Methods • Attributes • Modifiers • Closure • Polymorphism • Constructors • Interfaces • Linq • Try/Catch
  
  <br>
 
@@ -45,7 +59,7 @@
 
 Languages/Frameworks | Content
 ------------ | --------------
-<img height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Class • Closure • Polymorphism • Interfaces
+<img height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Class • Closure • Polymorphism • Interfaces • Linq • Try/Catch
 
 </details>
 
