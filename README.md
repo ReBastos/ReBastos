@@ -55,11 +55,11 @@
 
 ## <img alt="GIF" src="assets/studying.gif" width="25vw" /> Learning
 
-- Currently learning <b>C#</b> 👨‍💻
+- Currently learning <b>SQL</b> 👨‍💻
 
 Languages/Frameworks | Content
 ------------ | --------------
-<img height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Class • Closure • Polymorphism • Interfaces • Linq • Try/Catch
+<img height="30em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> | DDL Commands 
 
 </details>
 
