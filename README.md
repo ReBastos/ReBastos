@@ -8,7 +8,7 @@
 - Computer graduate ✔️
 - Web Technology lover ❤️‍🔥
 - Extremely Curious 🤔
-- I'm a <b>Full Stack Web</b> Developer under construction 🚧
+- I'm a <b>Full Stack Web Developer</b> under construction 🚧
 
 ## <img alt="GIF" src="assets/computer.gif" width="20vw" /> Technologies
 
