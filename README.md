@@ -1,7 +1,7 @@
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'm Renato.
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="20px"> Hello World! I'm Renato.
 
-## <img alt="GIF" src="assets/hmm.gif" width="20vw" /> About me
+## <img alt="GIF" src="assets/hmm.gif" height="20vw" /> About me
 
 - I'm <b>Renato</b> 🙇🏻‍♂️ • 26yo ⌛
 - Brazilian 🇧🇷 • From Santo Amaro/Ba 📍
@@ -10,7 +10,7 @@
 - Extremely Curious 🤔
 - I'm a <b>Full Stack Web Developer</b> under construction 🚧
 
-## <img alt="GIF" src="assets/computer.gif" width="20vw" /> Technologies
+## <img alt="GIF" src="assets/computer.gif" height="20vw" /> Technologies
 
 <div align="center">
 <a href="https://github.com/ReBastos">
@@ -54,7 +54,7 @@
  
  <br>
 
-## <img alt="GIF" src="assets/studying.gif" width="25vw" /> Learning
+## <img alt="GIF" src="assets/studying.gif" height="25vw" /> Learning
 
 - Currently learning <b>.NET</b> 👨‍💻
 
@@ -68,7 +68,7 @@ Languages/Frameworks | Content
 
  ## <img alt="GIF" src="assets/link.png" width="30vw" /> Interests
  
- <img src="assets/gamer.gif" width="300px" >
+ <img src="assets/gamer.gif" height="200px" >
  
  - <strike>Full-time</strike> Part-time gamer 🎮 
  - Gaming Plataforms: <img height="20em" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img height="20em" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
